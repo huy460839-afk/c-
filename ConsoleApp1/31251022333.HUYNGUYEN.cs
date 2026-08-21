@@ -6,6 +6,7 @@ using System.Security.Cryptography;
 
 Console.Write("Enter side of square:");
 float sid = Convert.ToSingle(Console.ReadLine());
+float ar = sid * sid;
 Console.WriteLine($"The area of the square is: {ar}");
 
 //10. convert days to years, weeks and month
