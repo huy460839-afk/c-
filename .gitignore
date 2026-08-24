@@ -1,1 +1,7 @@
-/ConsoleApp2
+# Bỏ qua tất cả thư mục rác biên dịch của C#
+**/bin/
+**/obj/
+.vs/
+
+# (Tùy chọn) Bỏ qua file .csproj nếu bạn chỉ muốn giữ duy nhất file .cs trên GitHub
+*.csproj
