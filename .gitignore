@@ -5,3 +5,5 @@
 
 # (Tùy chọn) Bỏ qua file .csproj nếu bạn chỉ muốn giữ duy nhất file .cs trên GitHub
 *.csproj
+.vscode/
+
