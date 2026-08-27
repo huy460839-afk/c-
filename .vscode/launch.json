@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: 31251022333_NguyenQuangHuy_BT_DataTypes",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\31251022333_NguyenQuangHuy_BT_DataTypes\\31251022333_NguyenQuangHuy_BT_DataTypes.csproj",
+            "launchConfigurationId": "TargetFramework=;31251022333_NguyenQuangHuy_BT_DataTypes"
+        }
+    ]
+}
